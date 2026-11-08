@@ -1,4 +1,4 @@
-# robots.txt for https://www.19216891.xyz/
+# robots.txt for https://www.53113007.xyz/
 
 User-agent: *
 Allow: /
@@ -22,4 +22,4 @@ User-agent: CCBot
 Disallow: /
 
 # 网站地图位置（非常重要，稍后建议生成一个 sitemap.xml）
-Sitemap: https://www.19216891.xyz/sitemap.xml
+Sitemap: https://www.53113007.xyz/sitemap.xml
